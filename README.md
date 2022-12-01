@@ -1,7 +1,7 @@
 # MemeShare
 
 # can share your meme With Your friends...
-#Technlogy
-Kotlin
-Volly
-Glide
+# Technlogy
+1. Kotlin
+2. Volly
+3. Glide
